@@ -1,0 +1,212 @@
+
+  "type": {
+    "value": "feed"
+  },
+  "title": "Virales",
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "500664",
+      "title": "¡Concedido! CMB revisará guantes de 'Cobrita' tras quejas de la 'Barby'",
+      "summary": "Mauricio Sulaimán, presidente del Consejo Mundial de Boxeo, señaló que habrá investigación.",
+      "published": "2020-11-04T02:55:42.441Z",
+      "updated": "2020-11-04T02:55:42.441Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/8e241ed/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F500664%2Fsnapshot1604458500959.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/500664_1604458486.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/box/clip/concedido-cmb-revisara-guantes-de-cobrita-tras-quejas-de-la-barby"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "500632",
+      "title": "Tri convoca a Alejandro, joya del Cruzeiro",
+      "summary": "El joven delantero se dijo contento por la oportunidad vestir la camiseta Tricolor.",
+      "published": "2020-11-04T01:49:37.220Z",
+      "updated": "2020-11-04T01:49:37.220Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/40cc4d5/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F500632%2Fsnapshot1604454459945.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/500632_1604454445.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/futbol/clip/tri-convoca-a-alejandro-joya-del-cruzeiro"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "500591",
+      "title": "Cardozo recuerda \"el gol más bonito de la historia\"",
+      "summary": "El Toluca revivió aquella anotación del Príncipe Guaraní en la goleada 6-0 ante el América.",
+      "published": "2020-11-04T00:43:41.622Z",
+      "updated": "2020-11-04T00:43:41.622Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/902dfd8/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F500591%2Fsnapshot1604450563990.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/500591_1604450541.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/liga-mx/toluca/clip/cardozo-recuerda-el-gol-mas-bonito-de-la-historia"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "500523",
+      "title": "Noche mágica del ‘Tecatito’ en triunfo de Porto",
+      "summary": "El mexicano puso dos asistencias en la goleada sobre Marsella por la Champions League.",
+      "published": "2020-11-03T22:33:21.045Z",
+      "updated": "2020-11-03T22:33:21.045Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/d1583c7/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F500523%2Fsnapshot1604442759773.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/500523_1604442744.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/uefa-champions-league/clip/noche-magica-del-tecatito-en-triunfo-de-porto"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "500559",
+      "title": "COVID-19 llega al legendario John Elway",
+      "summary": "El actual gerente general de los Denver Broncos está contagiado, junto con el CEO del equipo.",
+      "published": "2020-11-03T23:39:59.011Z",
+      "updated": "2020-11-03T23:39:59.011Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/08f4ec4/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F500559%2Fsnapshot1604446606103.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/500559_1604446581.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/nfl/clip/covid-19-llega-al-legendario-john-elway"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "500551",
+      "title": "Andy Dalton da positivo de coronavirus con Cowboys",
+      "summary": "El mariscal de campo de Dallas supera una conmoción y ahora sufre de COVID-19.",
+      "published": "2020-11-03T23:56:31.135Z",
+      "updated": "2020-11-03T23:56:31.135Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/d15611a/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F500551%2Fsnapshot1604447724408.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/500551_1604447714.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/nfl/clip/andy-dalton-da-positivo-de-coronavirus-con-cowboys"
+      }
+    }
+  ]
+}
