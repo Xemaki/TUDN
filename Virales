@@ -10,7 +10,7 @@
       "media_item": [
         {
           "key": "image_up",
-          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/8x1TrendingFooter.png",
+          "src": "https://raw.githubusercontent.com/Xemaki/TUDN/main/Assets/HEader%20sup.png",
           "type": "extern_image"
         }
       ]
@@ -20,7 +20,7 @@
       "media_item": [
         {
           "key": "image_footer",
-          "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1TrendingHeader.png",
+          "src": "https://raw.githubusercontent.com/Xemaki/TUDN/main/Assets/HEader%20Inferior.png",
           "type": "extern_image"
         }
       ]
