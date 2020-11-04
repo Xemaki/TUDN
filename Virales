@@ -9,7 +9,7 @@
       "type": "image",
       "media_item": [
         {
-          "key": "image_8x1",
+          "key": "image_up",
           "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Footers/8x1TrendingFooter.png",
           "type": "extern_image"
         }
@@ -19,7 +19,7 @@
       "type": "image",
       "media_item": [
         {
-          "key": "image_6x1",
+          "key": "image_footer",
           "src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/Sugar/Assets/Headers/6x1TrendingHeader.png",
           "type": "extern_image"
         }
