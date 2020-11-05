@@ -1,0 +1,498 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "title": "Noticias",
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501158",
+      "title": "Mohamed: \"Somos campeones de Concacaf, Copa y de Liga\"",
+      "summary": "Tras el triunfo ante Xolos, el entrenador de Rayados aseguró que conseguir el triplete no fue fácil.",
+      "published": "2020-11-05T06:33:00.679Z",
+      "updated": "2020-11-05T06:33:00.679Z",
+      "author": {
+        "name": "LIGA MX"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/3049dab/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501158%2Fsnapshot1604557934235.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501158_1604557917.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/mohamed-somos-campeones-de-concacaf-copa-y-de-liga"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501152",
+      "title": "Nico Sánchez festeja título de Rayados regalando cerveza",
+      "summary": "El jugador de Monterrey se mostró feliz después del título de la Copa MX ante Xolos.",
+      "published": "2020-11-05T06:10:33.932Z",
+      "updated": "2020-11-05T06:10:33.932Z",
+      "author": {
+        "name": "LIGA MX"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/ff6fe22/2147483647/strip/true/crop/1080x1080+420+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501152%2Fsnapshot1604556604937.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501152_1604556530.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/futbol/clip/nico-sanchez-festeja-titulo-de-rayados-regalando-cerveza"
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "id": "00000175-96ee-d5b3-a9f7-beefd37e0003",
+      "title": "Golazo de Chicharito no evita la eliminación del Galaxy",
+      "summary": "Los angelinos están eliminados gracias al triunfo del San José Earthquakes del Pelado Almeyda.",
+      "published": "2020-11-05T05:59:26.830Z",
+      "updated": "2020-11-05T05:59:26.830Z",
+      "author": {
+        "name": "UEFA CHAMPIONS LEAGUE"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/993e57e/2147483647/strip/true/crop/720x720+361+0/resize/414x414!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fd3%2F4c%2F99cdaa9644169ae254fcec2d544e%2Fchicharito-golazo-galaxy-mls.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "href": "https://www.tudn.mx/ampapp/mls/golazo-de-chicharito-hernandez-con-el-galaxy?hide_navigation_buttons=true&showcontext=true&shareable=true",
+        "type": "link"
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "id": "00000175-96d8-d5b3-a9f7-bed94cdd0003",
+      "title": "Jonathan Orozco terminó reclamando con mucha efusividad",
+      "summary": "Las cámaras captaron al portero de Xolos tras la final de la Copa MX gesticulando airadamente.",
+      "published": "2020-11-05T05:33:37.618Z",
+      "updated": "2020-11-05T05:33:37.618Z",
+      "author": {
+        "name": "FUTBOL"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/51f7d35/2147483647/strip/true/crop/2667x2667+494+0/resize/414x414!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F9d%2F20%2Fee6e5cd14bac9c09c41218f70861%2Fjonathan-orozco-xolos-final-monterrey.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "href": "https://www.tudn.mx/ampapp/copa-mx/jonathan-orozco-termino-reclamando-con-mucha-efusividad?hide_navigation_buttons=true&showcontext=true&shareable=true",
+        "type": "link"
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "id": "00000175-96cf-d5b3-a9f7-becf4f0a0003",
+      "title": "Turco: \"Entramos a la historia, pero hay que seguir haciendo más\"",
+      "summary": "El entrenador Rayados de Monterrey dijo estar contento por el triplete ante Xolos.",
+      "published": "2020-11-05T05:33:25.591Z",
+      "updated": "2020-11-05T05:33:25.591Z",
+      "author": {
+        "name": "UEFA CHAMPIONS LEAGUE"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/f2c5a42/2147483647/strip/true/crop/2667x2667+0+0/resize/414x414!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F34%2F42%2F48dc98b54182af7ce192d31dcaa6%2Fturco-mohamed-rayados-1.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "href": "https://www.tudn.mx/ampapp/copa-mx/antonio-turco-mohamed-historia-rayados-xolos-triplete?hide_navigation_buttons=true&showcontext=true&shareable=true",
+        "type": "link"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501146",
+      "title": "Maluma protagoniza el festejo del campeón Monterrey",
+      "summary": "Aficionados de Rayados celebran el título a ritmo de Hawái, ¿indirecta para Tigres?",
+      "published": "2020-11-05T05:30:48.533Z",
+      "updated": "2020-11-05T05:30:48.533Z",
+      "author": {
+        "name": "LIGA MX"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/645c018/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501146%2Fsnapshot1604554109314.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501146_1604554094.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/futbol/clip/maluma-protagoniza-el-festejo-del-campeon-monterrey"
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "id": "00000175-9657-d5b3-a9f7-bed7da240003",
+      "title": "Rayados es campeón de Copa MX y consigue atípico triplete",
+      "summary": "El campeonato de los regiomontanos se decidió en los últimos minutos del encuentro ante Xolos.",
+      "published": "2020-11-05T04:44:32.037Z",
+      "updated": "2020-11-05T04:44:32.037Z",
+      "author": {
+        "name": "CALCIO"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/1d0c246/2147483647/strip/true/crop/720x720+361+0/resize/414x414!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F54%2F6b%2F2a99e634407abea5844c52b361f9%2F01-copa-mx-1.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "link": {
+        "href": "https://www.tudn.mx/ampapp/copa-mx/rayados-1-1-xolos-marcador-resumen-goles-monterrey-titulo-triplete?hide_navigation_buttons=true&showcontext=true&shareable=true",
+        "type": "link"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501123",
+      "title": "¡Nico Sánchez falla el penalti, Orozco se estira y tapa!",
+      "summary": "El defensa disparó y Jonathan adivinó la trayectoria para mantener con vida a Xolos.",
+      "published": "2020-11-05T04:44:13.949Z",
+      "updated": "2020-11-05T04:44:13.949Z",
+      "author": {
+        "name": "COPA AMERICA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/cf27439/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501123%2Fsnapshot1604551329646.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501123_1604551318.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/nico-sanchez-falla-el-penalti-orozco-se-estira-y-tapa"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501121",
+      "title": "¡Golazo de Xolos! David Barbona pone el juego 1-1",
+      "summary": "El mediocampista de Tijuana la prendió de larga distancia y con ayuda del poste lo empató.",
+      "published": "2020-11-05T04:41:05.268Z",
+      "updated": "2020-11-05T04:41:05.268Z",
+      "author": {
+        "name": "LIGA MX"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/b4eeb75/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501121%2Fsnapshot1604551033589.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501121_1604551010.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/golazo-de-xolos-david-barbona-pone-el-juego-1-1"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501120",
+      "title": "¡Gol de Rayados! Vincent Janssen anota de penal el 1-0",
+      "summary": "El holandés pone el global 2-0 engañando a Jonathan Orozco desde los once pasos.",
+      "published": "2020-11-05T04:40:06.029Z",
+      "updated": "2020-11-05T04:40:06.029Z",
+      "author": {
+        "name": "LIGA MX"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/afbe273/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501120%2Fsnapshot1604551102593.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501120_1604551087.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/gol-de-rayados-vincent-janssen-anota-de-penal-el-1-0"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501118",
+      "title": "David Barnona y Castillo lo intentan, pero Cárdenas responde",
+      "summary": "Xolos se le encima a Rayados, pero el arquero de Monterrey estuvo atento en ambas acciones.",
+      "published": "2020-11-05T04:31:59.242Z",
+      "updated": "2020-11-05T04:31:59.242Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/6d66446/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501118%2Fsnapshot1604550512439.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501118_1604550494.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/david-barnona-y-castillo-lo-intentan-pero-cardenas-responde"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501117",
+      "title": "¡Calcetinazo! Jesús Gallardo dispara a las manos de Orozco",
+      "summary": "La más clara en el complemento la desperdició el atacante de Rayados en el área.",
+      "published": "2020-11-05T04:12:35.860Z",
+      "updated": "2020-11-05T04:12:35.860Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/d36335e/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501117%2Fsnapshot1604549495206.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501117_1604549472.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/calcetinazo-jesus-gallardo-dispara-a-las-manos-de-orozco"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501105",
+      "title": "¡Poste! Jesús Gallardo hizo retumbar el metal del arco de Xolos",
+      "summary": "Jonathan Orozco empieza a ser factor para que Rayados no abra el marcador.",
+      "published": "2020-11-05T03:31:57.412Z",
+      "updated": "2020-11-05T03:31:57.412Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/bc6e892/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501105%2Fsnapshot1604547058639.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501105_1604547041.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/poste-jesus-gallardo-hizo-retumbar-el-metal-del-arco-de-xolos"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501103",
+      "title": "¡Perdona Xolos! Rivera falla, pero gran desvío de Cantú",
+      "summary": "Castillo metió la diagonal matona, pero el remate de Christian se estrelló en el defensa.",
+      "published": "2020-11-05T03:28:36.632Z",
+      "updated": "2020-11-05T03:28:36.632Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/1e55d08/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501103%2Fsnapshot1604546858762.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501103_1604546831.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/perdona-xolos-rivera-falla-pero-gran-desvio-de-cantu"
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "501098",
+      "title": "¡Otra de Orozco! No se deja sorprender y le tapa a ‘Charly’",
+      "summary": "Carlos Rodríguez le remató en las narices al portero de Xolos que aguantó bien parado.",
+      "published": "2020-11-05T03:19:16.481Z",
+      "updated": "2020-11-05T03:19:16.481Z",
+      "author": {
+        "name": "Televisa Deportes"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://televisa.brightspotcdn.com/dims4/default/23de44d/2147483647/strip/true/crop/720x720+280+0/resize/414x414!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F501098%2Fsnapshot1604546256444.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://amd-vmcp1.akamaized.net/deportes/variant/501098_1604546035.m3u8?hdnea=exp=1615049499~acl=/*~hmac=08c405ebb303f48e819381749666615bb93f999d41c45cc2320bc8291244be39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.tudn.mx/ampapp/copa-mx/clip/otra-de-orozco-no-se-deja-sorprender-y-le-tapa-a-charly"
+      }
+    }
+  ]
+}
