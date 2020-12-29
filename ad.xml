@@ -1,0 +1,23 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+<vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://pubads.g.doubleclick.net/gampad/ads?slotname=/5644/es.lasestrellas.app/video/live&sz=1x1&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=%5Bplaceholder%5D&vad_type=linear&vpos=preroll&pod=1&vrid=1130787&min_ad_duration=0&max_ad_duration=60000&ppos=1&lip=true&npa=false&kfa=0&tfcd=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
+<vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://pubads.g.doubleclick.net/gampad/ads?slotname=/5644/es.lasestrellas.app/video/live&sz=1x1&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=%5Bplaceholder%5D&vad_type=linear&vpos=preroll&pod=1&vrid=1130787&min_ad_duration=0&max_ad_duration=60000&ppos=1&lip=true&npa=false&kfa=0&tfcd=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+<vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://pubads.g.doubleclick.net/gampad/ads?slotname=/5644/es.lasestrellas.app/video/live&sz=1x1&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=%5Bplaceholder%5D&vad_type=linear&vpos=preroll&pod=1&vrid=1130787&min_ad_duration=0&max_ad_duration=60000&ppos=1&lip=true&npa=false&kfa=0&tfcd=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
